@@ -1,13 +1,14 @@
 # Folder Architecture
-> - config
-> - controllers
-> - middlewares
-> - models
-> - routes
-> - services
-> - types
-> - utils
-- server.ts
+> - src
+>> - config
+>> - controllers
+>> - middlewares
+>> - models
+>> - routes
+>> - services
+>> - types
+>> - utils
+>> - server.ts
 - .env
 - package-lock.json
 - tsconfig.json
