@@ -1,0 +1,1 @@
+// Any custom typescript Type

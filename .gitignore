@@ -1,0 +1,11 @@
+# *.env
+node_modules
+.vscode
+# .env
+
+node_modules/
+package-lock.json
+ecosystem.config.js
+
+.next/
+.next
